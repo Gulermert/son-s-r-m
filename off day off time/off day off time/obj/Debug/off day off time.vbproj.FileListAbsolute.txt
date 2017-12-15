@@ -1,0 +1,19 @@
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\bin\Debug\off day off time.exe.config
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\bin\Debug\off day off time.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\bin\Debug\off day off time.pdb
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\bin\Debug\off day off time.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off_day_off_time.bilgiler.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off_day_off_time.Resources.resources
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.exe
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.xml
+c:\users\lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off day off time.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\off day off time\off day off time\obj\Debug\off_day_off_time.hobiler.resources
+C:\Users\Lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off_day_off_time.gaktivite.resources
+C:\Users\Lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off_day_off_time.giris.resources
+C:\Users\Lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off_day_off_time.menu.resources
+C:\Users\Lenovo\documents\visual studio 2017\Projects\off day off time\off day off time\obj\Debug\off_day_off_time.kullanıcıbilgileri.resources
